@@ -1,0 +1,6 @@
+{
+  "name": "2D Payment Processor Gateway",
+  "description": "A 2D real-time payment processor and gateway visualizer with secure client-side RSA-OAEP encryption, risk scoring, card network routing, and developer API sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
